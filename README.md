@@ -1,7 +1,9 @@
 Public facing repo for documentation and issue tracking
 
-## Things to implement:
-- Screen reader optimization
+Read development blog here: blog.alexharr.is
+
+### Things to implement:
+- Look into possibility for screen reader optimization
 - Better tune organization/search
 - Live demo
 - Publicly available tunes
